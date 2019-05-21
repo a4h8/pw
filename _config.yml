@@ -56,8 +56,8 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/ef2c4030f67df433a5b4c05ebd29a893d28310e2/topics/css/css.png
     
   - name: JavaScript
-    web_url: https://github.com/topics/javascript
-    image_url: https://raw.githubusercontent.com/github/explore/ef2c4030f67df433a5b4c05ebd29a893d28310e2/topics/javascript/javascript.pngimage_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    web_url: https://github.com/topics/JavaScript
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
   
   - name: PHP 
     web_url: https://github.com/topics/php
