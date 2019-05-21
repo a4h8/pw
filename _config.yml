@@ -1,5 +1,5 @@
 layout: stacked
-style: black
+style: light
 
 plugins:
   - jekyll-octicons
@@ -30,7 +30,7 @@ projects:
 
 # social_media:
   # behance: your_username
-  # dribbble: your_username
+    dribbble: a4h8
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
