@@ -1,4 +1,4 @@
-layout: stacked
+layout: sidebar
 style: light
 
 plugins:
@@ -32,12 +32,12 @@ projects:
    dribbble: a4h8
    facebook: bsanis
    linkedin: aniis
+   twitter: a4h8_
  # medium: @your_username
  # stackoverflow: your_user_id
- #  telegram: your_username
-   twitter: a4h8_
-  # youtube: your_username
-  # vk: your_username
+ # telegram: your_username
+ # youtube: your_username
+ # vk: your_username
 
 topics:
   - name: HTML
@@ -49,7 +49,7 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/ef2c4030f67df433a5b4c05ebd29a893d28310e2/topics/css/css.png
     
   - name: JavaScript
-    web_url: https://github.com/topics/JavaScript
+    web_url: https://github.com/topics/javascript
     image_url: https://raw.githubusercontent.com/github/explore/ef2c4030f67df433a5b4c05ebd29a893d28310e2/topics/javascript/javascript.pngimage_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
   
   - name: PHP 
