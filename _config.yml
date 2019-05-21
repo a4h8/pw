@@ -45,7 +45,8 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    web_url: https://dribbble.com/a4h8
+    
+  - name: JavaScript
+    web_url: https://github.com/topics/JavaScript
+    image_url: https://raw.githubusercontent.com/github/explore/ef2c4030f67df433a5b4c05ebd29a893d28310e2/topics/javascript/javascript.png
