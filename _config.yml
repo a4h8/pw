@@ -27,15 +27,15 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # linkedin: your_username
-  # medium: @your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
+ social_media:
+   behance: a4h8
+   dribbble: a4h8
+   facebook: bsanis
+   linkedin: aniis
+ # medium: @your_username
+ # stackoverflow: your_user_id
+ #  telegram: your_username
+   twitter: a4h8_
   # youtube: your_username
   # vk: your_username
 
@@ -56,6 +56,10 @@ topics:
   - name: PHP 
     web_url: https://github.com/topics/php
     image_url: https://raw.githubusercontent.com/github/explore/ef2c4030f67df433a5b4c05ebd29a893d28310e2/topics/php/php.png
+      
+  - name: WordPress 
+    web_url: https://github.com/topics/WordPress
+    image_url: https://raw.githubusercontent.com/github/explore/ef2c4030f67df433a5b4c05ebd29a893d28310e2/topics/wordpress/wordpress.png
     
   - name: Web UI design
     web_url: #
